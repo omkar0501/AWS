@@ -1,0 +1,9 @@
+   1. what is CloudFront ?
+           Amazon CloudFront is Securely deliver content with low latency and high transfer speeds.
+
+   2. Why CloudFront ?
+         * Speeds up your website: Your site loads faster because it’s delivered from a nearby location.
+         * Makes your site secure: It uses HTTPS (a secure connection) automatically.
+         * Reduces pressure on your main server: It handles many requests for you.
+
+   3. 
