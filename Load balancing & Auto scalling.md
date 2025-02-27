@@ -1,5 +1,5 @@
 # what is load balancer ? 
-    An elastic load balancer automatically distribute incoming traffic across multiple servers. it helps ensure your app stays fast, reliable and available
+ An elastic load balancer automatically distribute incoming traffic across multiple servers. it helps ensure your app stays fast, reliable and available
     when there's lot of traffic 
 
 # Types of load balancer ?
