@@ -28,7 +28,7 @@
 # difference between .pem and .ppk 
    .pem - for use with open SSH 
 
-    .ppk - for use with PUTTY
+   .ppk - for use with PUTTY
 
 # what is security Group ?
    A security Group acts as virtual firewall for your ec2 instance it is control inbound and outbound traffic based on defined rule 
