@@ -7,7 +7,8 @@
 
    2. network load balancer  : - works at layer 4 (Transport layer) designed for high performance law latency applications like gaming 
 
-   4. gatway load balancer
+   4. gatway load balancer : - works at layer 3 (Network layer) mainly used for security services like firewalls.
 
-   5. classic load balancer
-
+   5. classic load balancer :- works at both layer 4 and layer 7, mainly for legacy applications but its not recommended for new deployments
+      
+# 
